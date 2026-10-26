@@ -1,6 +1,6 @@
 # myproject
 
-[![CI](https://github.com/yourname/myproject/actions/workflows/ci.yml/badge.svg)](https://github.com/yourname/myproject/actions/workflows/ci.yml)
+[![CI](https://github.com/Nava123799/myproject/actions/workflows/ci.yml/badge.svg)](https://github.com/Nava123799/myproject/actions/workflows/ci.yml)
 [![Python](https://img.shields.io/badge/python-3.10%20%7C%203.11%20%7C%203.12%20%7C%203.13-blue)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Ruff](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/ruff/main/assets/badge/v2.json)](https://github.com/astral-sh/ruff)
@@ -19,7 +19,7 @@
 ## 安装
 
 ```bash
-git clone git@github.com:yourname/myproject.git
+git clone git@github.com:Nava123799/myproject.git
 cd myproject
 python -m venv .venv
 source .venv/bin/activate      # Windows: .venv\Scripts\activate

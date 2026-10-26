@@ -35,9 +35,9 @@ dev = [
 myproject = "myproject.cli:main"
 
 [project.urls]
-Homepage = "https://github.com/yourname/myproject"
-Repository = "https://github.com/yourname/myproject"
-Issues = "https://github.com/yourname/myproject/issues"
+Homepage = "https://github.com/Nava123799/myproject"
+Repository = "https://github.com/Nava123799/myproject"
+Issues = "https://github.com/Nava123799/myproject/issues"
 
 [tool.hatch.build.targets.wheel]
 packages = ["src/myproject"]
